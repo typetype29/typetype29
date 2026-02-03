@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+Im currently just starting in this world and side of things, hopefuly in the future i can show a lot of projects of my own doing and really integrate myself in this new chapter, just finished some courses about python and linux, excited to do many more!
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/0c9c4eb0-3ab2-4b09-a991-04dab6e1ba88/thumbnail" >
+</p>
 <!--
 **typetype29/typetype29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
